@@ -1,5 +1,7 @@
 # UnityAndroidCPUArch
 
+Android中判断CPU架构的方法，以及在Unity项目中的应用。
+
 ## Ref
 
 * https://software.intel.com/en-us/blogs/2014/12/16/how-to-identify-the-image-is-32-bit-or-64-bit-user-space
